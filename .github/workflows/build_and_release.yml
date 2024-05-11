@@ -5,7 +5,7 @@ on:
     branches: [master, main]
 
 env:
-  OUTPUT_NAME: marker_pack_example # Change this to your desired file output name
+  OUTPUT_NAME: dungeon_skips # Change this to your desired file output name
 
 jobs:
   release:
