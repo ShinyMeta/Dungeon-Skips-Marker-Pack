@@ -2,8 +2,8 @@
 setlocal
 
 :: Variables - Change these
-set "targetLocation=C:\path\to\markers"
-set "fileName=marker_pack_example"
+set "targetLocation=D:\Libraries\Documents\Guild Wars 2\addons\blishhud\markers"
+set "fileName=dungeon_skips"
 
 :: Delete old TacO file at target location
 if exist "%targetLocation%\%fileName%.taco" (
